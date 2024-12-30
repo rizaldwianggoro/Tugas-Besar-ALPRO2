@@ -1,3 +1,4 @@
+Start
 Deklarasi:
     Tipe data Buku:
         - ID: string
@@ -251,3 +252,4 @@ Function main():
             Case 12: Keluar
                 Print "Terima kasih telah menggunakan aplikasi perpustakaan!"
                 Return
+End
